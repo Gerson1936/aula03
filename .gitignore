@@ -1,0 +1,10 @@
+*.txt
+*.env
+*.zip
+*.rar
+password.*
+*.bd
+*.bkp
+*.ini
+
+
